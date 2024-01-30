@@ -15,13 +15,15 @@ E um projeto simoples sendo utlizando um script de Python que lê vários arquiv
 ## Instalação
 O projeto requer Python e a biblioteca pandas. Você pode instalar o pandas com o seguinte comando:
 ```bash
-pip install pandas.
+pip install pandas
+
+```
 
 ## Instalação
 Para usar este projeto, você precisa ter alguns arquivos de texto no mesmo diretório que o script Python. Os nomes dos arquivos devem ser os nomes das bases de dados em letras minúsculas com a extensão ‘.txt’. Por exemplo, para a base de dados ‘ATT48’, você deve ter um arquivo chamado ‘att48.txt’.
 Depois de ter os arquivos de texto, você pode executar o script Python. Ele imprimirá as matrizes de cada base de dados.
 
-#Licença
+## Licença
 Licença MIT
 
 Direitos autorais (c) 2024 Emerson Ferreira da Silva
@@ -48,10 +50,10 @@ Contato do Desenvolvedor
 Nome do Desenvolvedor - Emerson Ferreira da Silva 
                       - Joel Cardozo dos santos
                       - Aleksander Pires Calixto Negrão
-                      -
+                      - Jose Vinicius Cavalcante Soares
 
-#Hardware Sugerido
+# Hardware Sugerido
 Este projeto não requer hardware específico para ser executado. No entanto, se você estiver processando bases de dados muito grandes, um computador mais poderoso pode ser necessário.
 
-#Software Necessário
+# Software Necessário
 Este projeto requer Python 3.6 ou superior e a biblioteca pandas.
