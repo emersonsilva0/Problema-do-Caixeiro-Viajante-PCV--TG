@@ -10,7 +10,7 @@ Por agora, só temos as bases de dados que serão utilizadas.
 TG_ler_base_de_dados
 
 ## Descrição
-E um projeto simoples sendo utlizando um script de Python que lê vários arquivos de texto contendo bases de dados, os converte em matrizes e imprime as matrizes.
+E um projeto simples sendo utlizando um script de Python que lê vários arquivos de texto contendo bases de dados, os converte em matrizes e imprime as matrizes.
 
 ## Instalação
 O projeto requer Python e a biblioteca pandas. Você pode instalar o pandas com o seguinte comando:
