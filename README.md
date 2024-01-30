@@ -46,11 +46,12 @@ RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA
 FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
 PROGRAMAS.
 
-Contato do Desenvolvedor
-Nome do Desenvolvedor - Emerson Ferreira da Silva 
-                      - Joel Cardozo dos santos
-                      - Aleksander Pires Calixto Negrão
-                      - Jose Vinicius Cavalcante Soares
+## Contato do Desenvolvedor
+Nome do Desenvolvedor 
+- Emerson Ferreira da Silva 
+- Joel Cardozo dos santos
+- Aleksander Pires Calixto Negrão
+- Jose Vinicius Cavalcante Soares
 
 # Hardware Sugerido
 Este projeto não requer hardware específico para ser executado. No entanto, se você estiver processando bases de dados muito grandes, um computador mais poderoso pode ser necessário.
